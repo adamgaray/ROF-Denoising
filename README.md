@@ -8,3 +8,7 @@ This problem can be solved by a partial differential equation, and `rof.m` trans
 <p align="center">
   <img src="results.png" width="400" />
 </p>
+
+<br> <br>
+
+Originally written for MATH 478 (Winter 2023) at McGill University.
